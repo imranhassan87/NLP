@@ -1,2 +1,2 @@
 # NLP
-Using NLP and TF/IDF for yelp movie reviews
+Using Navie Bayes and TF/IDF for yelp movie reviews
